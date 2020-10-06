@@ -1,20 +1,31 @@
-.container_blue{
+.nav-bar{
   height: 60px;
   background-color: SlateGray;
   color: white;
 }
 
-.container_blue a{
-  margin-top: 5px;
-  margin-bottom: 5px;
+.nav-bar{
+  vertical-align: middle;
+  line-height: 60px;
+}
+
+.nav-bar .col-md-6:first-child a{
+  font-size: 30px;
+  color: white;
+}
+
+.nav-bar .list-inline li a {
+  font-size: 20px;
+  color: white;
 }
 
 .container-green{
   height: 400px;
   background-color: LightSeaGreen;
+  color: white;
 }
 
-.row_green img{
+.row img{
   height: 200px;
 }
 
