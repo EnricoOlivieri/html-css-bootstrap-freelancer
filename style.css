@@ -25,17 +25,27 @@
   color: white;
 }
 
-.row img{
+.container-green .row img{
   height: 200px;
 }
 
 .container-white{
-  height: 360px;
+  height: 700px;
+  color: SlateGray;
+}
+
+.row img{
+  height: 200px;
+  border-radius: 5%;
 }
 
 .container-about{
-  height: 250px;
+  height: 400px;
   background-color: LightSeaGreen;
+}
+
+.row p{
+  font-size: 20px;
 }
 
 .container-contactme{
