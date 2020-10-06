@@ -42,6 +42,7 @@
 .container-about{
   height: 400px;
   background-color: LightSeaGreen;
+  color: white;
 }
 
 .row p{
